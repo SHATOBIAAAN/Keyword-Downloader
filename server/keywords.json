@@ -1,0 +1,10 @@
+{
+	"https://learn.javascript.ru/": ["js", "javascript"],
+	"https://jsdoc.app/": ["js", "javascript"],
+	"https://developer.mozilla.org/ru/docs/Web/JavaScript": ["js", "javascript"],
+	"https://www.w3schools.com/js/": ["js", "javascript"],
+	"https://www.w3schools.com/html/": ["html"],
+	"https://www.w3schools.com/css/": ["css"],
+	"https://developer.mozilla.org/ru/docs/Web/CSS": ["css"],
+	"https://developer.mozilla.org/ru/docs/Web/HTML": ["html"]
+}
